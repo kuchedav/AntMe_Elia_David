@@ -34,8 +34,7 @@ namespace AntMe.Player.Collector
         /// <returns>Caste-Name for the next ant</returns>
         public override string ChooseCaste(Dictionary<string, int> typeCount)
         {
-            return "Default";
-            GoForward();
+            this.GoForward();
         }
 
         #endregion
