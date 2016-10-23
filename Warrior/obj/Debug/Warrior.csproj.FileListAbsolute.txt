@@ -1,0 +1,11 @@
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\bin\AntMe.Player.Warrior.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\bin\AntMe.Player.Warrior.pdb
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\bin\AntMe.SharedComponents.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\bin\AntMe.Simulation.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\bin\AntMe.SharedComponents.xml
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\bin\AntMe.Simulation.xml
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\bin\de\AntMe.SharedComponents.resources.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\bin\de\AntMe.Simulation.resources.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\obj\Debug\Warrior.csprojResolveAssemblyReference.cache
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\obj\Debug\AntMe.Player.Warrior.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Warrior\obj\Debug\AntMe.Player.Warrior.pdb

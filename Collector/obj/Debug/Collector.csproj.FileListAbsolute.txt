@@ -1,0 +1,11 @@
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\bin\AntMe.Player.Collector.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\bin\AntMe.Player.Collector.pdb
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\bin\AntMe.SharedComponents.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\bin\AntMe.Simulation.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\bin\AntMe.SharedComponents.xml
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\bin\AntMe.Simulation.xml
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\bin\de\AntMe.SharedComponents.resources.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\bin\de\AntMe.Simulation.resources.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\obj\Debug\Collector.csprojResolveAssemblyReference.cache
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\obj\Debug\AntMe.Player.Collector.dll
+C:\Users\Elia\Documents\Visual Studio 2015\Projects\Collector\obj\Debug\AntMe.Player.Collector.pdb
