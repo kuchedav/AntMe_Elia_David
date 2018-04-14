@@ -8,8 +8,8 @@ namespace AntMe.Player.Collector
 {
     [Player(
         ColonyName = "Collector",
-        FirstName = "",
-        LastName = ""
+        FirstName = "David",
+        LastName = "Kuchelmeister test"
     )]
     [Caste(
         Name = "Default",
